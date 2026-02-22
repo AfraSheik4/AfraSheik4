@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Afra Sheik</h1>
-<h3 align="center">A passionate Data Analyst from Dubai</h3>
+<h3 align="center">A passionate AI/ML Engineer from Dubai</h3>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **afrasheik224@gmail.com**
 
